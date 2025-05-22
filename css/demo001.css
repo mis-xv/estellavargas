@@ -86,21 +86,21 @@ font-family: "Cormorant Garamond", serif;
   font-style: normal;
 
   font-style: normal;
-  margin-top:50px;
+  margin-top:220px;
   margin-bottom: 30px;
-  color:#bc943c;
+  color:#d8bb98;
   font-size: 50px;
   z-index: 9999;
-
+ text-shadow: 2px 2px 4px #000000;
 }
 
 .nuestraBoda{
  font-family: 'Cormorant Garamond', serif;
-  margin-top:200px;
-  color:#9b9b9b;
+  margin-top:100px;
+  color:#fff;
   font-size: 30px;
-  letter-spacing: 4px;
-
+  letter-spacing: 6px;
+ text-shadow: 2px 2px 4px #000000;
 }
 
 
@@ -125,11 +125,12 @@ font-family: "Cormorant Garamond", serif;
   font-style: normal;
 
   font-style: normal;
-  margin-top:50px;
+  margin-top:220px;
   margin-bottom: 30px;
   color:#bc943c;
   font-size: 45px;
   z-index: 9999;
+  text-shadow: 2px 2px 4px #000000;
 
 }
 .nombres2{
@@ -159,10 +160,11 @@ font-family: 'Arizonia', cursive;
 }
 .nuestraBoda{
  font-family: 'Cormorant Garamond', serif;
-  margin-top:200px;
-  color:#9b9b9b;
+  margin-top:100px;
+  color:#fff;
  font-size: 30px;
   letter-spacing: 4px;
+  text-shadow: 2px 2px 4px #000000;
 
 }
 .portada{
@@ -191,11 +193,12 @@ font-family: "Cormorant Garamond", serif;
   font-style: normal;
 
   font-style: normal;
-  margin-top:50px;
+  margin-top:220px;
   margin-bottom: 30px;
   color:#bc943c;
   font-size: 40px;
   z-index: 9999;
+  text-shadow: 2px 2px 4px #000000;
 
 }
 .nombres2{
@@ -225,10 +228,11 @@ font-family: 'Arizonia', cursive;
 }
 .nuestraBoda{
  font-family: 'Cormorant Garamond', serif;
-  margin-top:200px;
-  color:#9b9b9b;
+  margin-top:100px;
+  color:#fff;
   font-size: 30px;
   letter-spacing: 4px;
+  text-shadow: 2px 2px 4px #000000;
 }
 .portada{
 width: 100%;
