@@ -141,9 +141,9 @@ window.sr = ScrollReveal();
 
 	});
 	sr.reveal('.imagen1', {
-		duration: 1000, //tiempo
-		//delay:800,
-		origin: 'top', //origen
+		duration: 2500, //tiempo
+		delay:700,
+		origin: 'bottom', //origen
 		distance: '300px', //distancia
 		
 
