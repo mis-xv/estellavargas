@@ -1355,7 +1355,7 @@ function copiarCieloVazquez(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarS(){
+ function copiarManuelPizaña(){
   var origen = document.getElementById('target48');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
