@@ -631,17 +631,17 @@ function KarolIbarra() {
 function CarolinaMartinez() {
     window.open("pases/CarolinaMartinez.html", "_self");        
 }
-function SanchezZamudio() {
-    window.open("pases/SanchezZamudio.html", "_self");        
+function ManuelPizaña() {
+    window.open("pases/ManuelPizaña.html", "_self");        
 }
-function ErnestoLavinZamudio() {
-    window.open("pases/ErnestoLavinZamudio.html", "_self");        
+function MayelaGomez() {
+    window.open("pases/MayelaGomez.html", "_self");        
 }
-function DiazZamudio() {
-    window.open("pases/DiazZamudio.html", "_self");        
+function RosarioAmador() {
+    window.open("pases/RosarioAmador.html", "_self");        
 }
-function MelendezZamudio() {
-    window.open("pases/MelendezZamudio.html", "_self");        
+function DenisseRamirez() {
+    window.open("pases/DenisseRamirez.html", "_self");        
 }
 
 function RodriguezZamudio () {
@@ -1355,7 +1355,7 @@ function copiarCieloVazquez(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarSanchezZamudio(){
+ function copiarS(){
   var origen = document.getElementById('target48');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1369,7 +1369,7 @@ function copiarCieloVazquez(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarErnestoLavinZamudio(){
+ function copiarMayelaGomez(){
   var origen = document.getElementById('target49');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1383,7 +1383,7 @@ function copiarCieloVazquez(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarDiazZamudio(){
+ function copiarRosarioAmador(){
   var origen = document.getElementById('target50');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1397,7 +1397,7 @@ function copiarCieloVazquez(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarMelendezZamudio(){
+ function copiarDenisseRamirez(){
   var origen = document.getElementById('target51');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
